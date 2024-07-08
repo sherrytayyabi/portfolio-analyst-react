@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sherrytayyabi/portfolio-analyst-react/static/css/main.0ea3dc9e.css",
-    "main.js": "/sherrytayyabi/portfolio-analyst-react/static/js/main.ef425732.js",
-    "static/media/java.png": "/sherrytayyabi/portfolio-analyst-react/static/media/java.35397b59170cfd616fee.png",
-    "static/media/excel.png": "/sherrytayyabi/portfolio-analyst-react/static/media/excel.1c7c304458ea6e93c73d.png",
-    "static/media/Sheheryar Tayyabi.jpg": "/sherrytayyabi/portfolio-analyst-react/static/media/Sheheryar Tayyabi.6ea86ea032fa00d6f3fa.jpg",
-    "static/media/rs.png": "/sherrytayyabi/portfolio-analyst-react/static/media/rs.02794c1c6fffac0582b6.png",
-    "static/media/sql.png": "/sherrytayyabi/portfolio-analyst-react/static/media/sql.7d8d571e5629923eaf74.png",
-    "static/media/github.png": "/sherrytayyabi/portfolio-analyst-react/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/mern.webp": "/sherrytayyabi/portfolio-analyst-react/static/media/mern.8f0228f0cb01a92af36e.webp",
-    "static/media/mongodb.png": "/sherrytayyabi/portfolio-analyst-react/static/media/mongodb.2178943141ba7e7fae4e.png",
-    "static/media/python.webp": "/sherrytayyabi/portfolio-analyst-react/static/media/python.7a9da81b5ea6a4550127.webp",
-    "static/media/javascript.png": "/sherrytayyabi/portfolio-analyst-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/sherrytayyabi/portfolio-analyst-react/index.html",
-    "main.0ea3dc9e.css.map": "/sherrytayyabi/portfolio-analyst-react/static/css/main.0ea3dc9e.css.map",
-    "main.ef425732.js.map": "/sherrytayyabi/portfolio-analyst-react/static/js/main.ef425732.js.map"
+    "main.css": "/portfolio-analyst-react/static/css/main.0ea3dc9e.css",
+    "main.js": "/portfolio-analyst-react/static/js/main.2c192639.js",
+    "static/media/java.png": "/portfolio-analyst-react/static/media/java.35397b59170cfd616fee.png",
+    "static/media/excel.png": "/portfolio-analyst-react/static/media/excel.1c7c304458ea6e93c73d.png",
+    "static/media/Sheheryar Tayyabi.jpg": "/portfolio-analyst-react/static/media/Sheheryar Tayyabi.6ea86ea032fa00d6f3fa.jpg",
+    "static/media/rs.png": "/portfolio-analyst-react/static/media/rs.02794c1c6fffac0582b6.png",
+    "static/media/sql.png": "/portfolio-analyst-react/static/media/sql.7d8d571e5629923eaf74.png",
+    "static/media/github.png": "/portfolio-analyst-react/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/mern.webp": "/portfolio-analyst-react/static/media/mern.8f0228f0cb01a92af36e.webp",
+    "static/media/mongodb.png": "/portfolio-analyst-react/static/media/mongodb.2178943141ba7e7fae4e.png",
+    "static/media/python.webp": "/portfolio-analyst-react/static/media/python.7a9da81b5ea6a4550127.webp",
+    "static/media/javascript.png": "/portfolio-analyst-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-analyst-react/index.html",
+    "main.0ea3dc9e.css.map": "/portfolio-analyst-react/static/css/main.0ea3dc9e.css.map",
+    "main.2c192639.js.map": "/portfolio-analyst-react/static/js/main.2c192639.js.map"
   },
   "entrypoints": [
     "static/css/main.0ea3dc9e.css",
-    "static/js/main.ef425732.js"
+    "static/js/main.2c192639.js"
   ]
 }
