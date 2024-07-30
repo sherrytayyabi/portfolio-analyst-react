@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio-analyst-react/static/css/main.0ea3dc9e.css",
-    "main.js": "/portfolio-analyst-react/static/js/main.9ad81960.js",
+    "main.js": "/portfolio-analyst-react/static/js/main.c543f773.js",
     "static/media/java.png": "/portfolio-analyst-react/static/media/java.35397b59170cfd616fee.png",
     "static/media/sl-photo.png": "/portfolio-analyst-react/static/media/sl-photo.8d3fcc65bddba4c58025.png",
+    "static/media/tableau.png": "/portfolio-analyst-react/static/media/tableau.85c4678346b8474f31d0.png",
     "static/media/excel.png": "/portfolio-analyst-react/static/media/excel.1c7c304458ea6e93c73d.png",
     "static/media/Sheheryar Tayyabi.jpg": "/portfolio-analyst-react/static/media/Sheheryar Tayyabi.6ea86ea032fa00d6f3fa.jpg",
+    "static/media/t20.webp": "/portfolio-analyst-react/static/media/t20.808b9dbd644e2d4e0182.webp",
     "static/media/HR.png": "/portfolio-analyst-react/static/media/HR.6daaa533b65822c50ca7.png",
     "static/media/sql.png": "/portfolio-analyst-react/static/media/sql.7d8d571e5629923eaf74.png",
     "static/media/github.png": "/portfolio-analyst-react/static/media/github.3b9e32903aa89111875d.png",
@@ -15,10 +17,10 @@
     "static/media/javascript.png": "/portfolio-analyst-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-analyst-react/index.html",
     "main.0ea3dc9e.css.map": "/portfolio-analyst-react/static/css/main.0ea3dc9e.css.map",
-    "main.9ad81960.js.map": "/portfolio-analyst-react/static/js/main.9ad81960.js.map"
+    "main.c543f773.js.map": "/portfolio-analyst-react/static/js/main.c543f773.js.map"
   },
   "entrypoints": [
     "static/css/main.0ea3dc9e.css",
-    "static/js/main.9ad81960.js"
+    "static/js/main.c543f773.js"
   ]
 }
